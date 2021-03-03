@@ -1,0 +1,10 @@
+body{
+background-color: green;
+}
+p{
+border: 2px solid yellow;
+padding: 20px;
+color: maroon;
+font-family: verdana;
+font-size:300%;
+}
